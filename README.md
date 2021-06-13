@@ -1,7 +1,1 @@
-# Find
-
-commit test TaehoKim
-
-```
-Print("hello world");
-```
+# Find 게임
